@@ -20,7 +20,7 @@ Add these lines to your pom.xml:
         <dependency>
             <groupId>com.triptomap.libs</groupId>
             <artifactId>oneall-client</artifactId>
-            <version>1.0</version>
+            <version>1.1</version>
         </dependency>
 ```
 
